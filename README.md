@@ -1,19 +1,17 @@
-#  AI Product Management Portfolio
+#  AI Product Management case studys 
 ### Vivek Bakade 
 
-[![LinkedIn](https://www.linkedin.com/in/vivek-bakade-a2726224b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BmmgWvWTyTm69xeF16Kb05A%3D%3D)]
-[![GitHub](https://github.com/Vivekbakade/ai-pm-portfolio)](https://github.com/Vivekbakade)
+## About This Repository
 
+This repository contains AI Product Management case studies written by Vivek Bakade — 
+a 3rd-year Electronics Engineering student with hands-on AI/ML research experience.
 
+Each case study demonstrates end-to-end product thinking — from problem discovery 
+to PRD writing, metric design, competitive analysis, risk assessment, and product 
+roadmap — across high-growth AI domains in India.
 
-##  About This Portfolio
-
-I'm a 3rd-year Electronics Engineering student with hands-on AI/ML research experience (built a GCN+TCN hybrid model — HSTGCN — for pedestrian intention prediction in urban traffic). After that project, I realized I'm more passionate about **shaping what gets built** than just building it.
-
-This portfolio demonstrates my thinking as an **AI Product Manager** — combining technical depth in ML/AI, data analytics skills, and business strategy to design products that solve real problems.
-
-**My edge:** I understand AI from the inside (I've trained models, debugged pipelines, dealt with bias and latency tradeoffs) — which makes me a better PM for AI products than someone who only knows PM theory.
-
+These are not theoretical exercises. Every case study is built on real market data, 
+real user problems, and real business models.
 
 
 ##  Portfolio Structure
@@ -23,13 +21,7 @@ ai-pm-portfolio/
 ├──  case-studies/           ← AI PM Case Studies 
 │   ├── case-study-1-rural-health-ai.md
 │   ├── case-study-2-zomato-contextrec.md
-│   └── case-study-3-solvai-edtech.md
-│
-├──  projects/               ← Technical Projects with PM Framing
-│   ├── rag-chatbot/
-│   ├── recommendation-engine/
-│   └── analytics-dashboard/
-│
+│   └── case-study-3-solvai-edtech.
 └──  README.md               ← You are here
 
 
@@ -66,30 +58,6 @@ Designed SolvAI — a syllabus-aware RAG-based doubt-solving assistant for 8M+ I
 **Key PM skills demonstrated:** RAG architecture decision, LTV:CAC analysis, GTM strategy, competitive positioning, multilingual product design, AI limitation disclosure
 
 
-
-##  Technical Projects
-
-### 1.  RAG Chatbot — AI-Powered Document Q&A
-**Tech Stack:** LangChain, OpenAI API, Streamlit, Python
-**PM Framing:** Reduces support ticket volume for SMEs; tracks response accuracy and fallback rate as core metrics.
-[→ View Project](./projects/rag-chatbot/)
-
-
-
-### 2.  AI Recommendation Engine
-**Tech Stack:** Python, Scikit-learn, Collaborative Filtering, Pandas
-**PM Framing:** Increases e-commerce basket size; A/B test design for CTR uplift measurement.
-[→ View Project](./projects/recommendation-engine/)
-
-
-
-### 3.  Analytics Dashboard
-**Tech Stack:** Python, Streamlit, Plotly, SQL
-**PM Framing:** Enables data-driven decisions for operations teams; KPI-first design with stakeholder-ready reporting.
-[→ View Project](./projects/analytics-dashboard/)
-
-
-
 ##  Skills
 
 **Product Management:** PRD Writing, Product Roadmapping, User Story Mapping, Agile/Scrum, RICE & MoSCoW Prioritization, A/B Testing, Root Cause Analysis, Go-to-Market Strategy, Market Sizing (TAM/SAM/SOM)
@@ -105,7 +73,7 @@ Designed SolvAI — a syllabus-aware RAG-based doubt-solving assistant for 8M+ I
 
 ##  Let's Connect
 
-I'm actively looking for **AI Product Manager / Data Analyst internship opportunities** for my final year (2025-26).
+I'm actively looking for **AI Product Manager / Data Analyst internship opportunities** for my final year.
 
 -  [LinkedIn](https://www.linkedin.com/in/vivek-bakade-a2726224b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BmmgWvWTyTm69xeF16Kb05A%3D%3D)
 -  vivekbakade14@gmail.com
