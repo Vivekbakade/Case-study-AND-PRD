@@ -13,20 +13,6 @@ roadmap — across high-growth AI domains in India.
 These are not theoretical exercises. Every case study is built on real market data, 
 real user problems, and real business models.
 
-
-##  Portfolio Structure
-
-
-ai-pm-portfolio/
-├──  case-studies/           ← AI PM Case Studies 
-│   ├── case-study-1-rural-health-ai.md
-│   ├── case-study-2-zomato-contextrec.md
-│   └── case-study-3-solvai-edtech.
-└──  README.md               ← You are here
-
-
-
-
 ##  Case Studies
 
 ### 1. [AI Diagnostic Assistant for Rural India](./case-study-1-rural-health-ai.md)
