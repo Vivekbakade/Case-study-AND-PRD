@@ -15,7 +15,7 @@ real user problems, and real business models.
 
 ##  Case Studies
 
-### 1. [AI Diagnostic Assistant for Rural India](./case-study-1-rural-health-ai.md)
+### 1. [AI Diagnostic Assistant for Rural India](NIVAARAN-Diagnostic-Assistant-for-Rural-India.md)
 **Domain:** HealthTech | B2G | Bharat Market
 **Type:** New Product Design (0→1)
 
