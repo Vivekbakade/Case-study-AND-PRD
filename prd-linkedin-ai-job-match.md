@@ -1,6 +1,8 @@
 # PRD: LinkedIn AI Job Match — Redesigning Job Recommendations for Indian Freshers
 ### Product Management Case Study | Career Tech | Feature Redesign
 
+PRD= https://drive.google.com/file/d/1xKPJbEtQMlNKTXwnSLvBOWUwpRcAwCkp/view?usp=drive_link
+
 > **Domain:** Career Tech | AI Personalization | India Fresher Market
 > **Role Simulated:** AI Product Manager
 > **Type:** Feature Redesign + PRD
