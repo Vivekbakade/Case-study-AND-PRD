@@ -35,11 +35,13 @@ Identified root cause of low recommendation relevance on Zomato using 5-Why anal
 
 
 
-### 3.  [SolvAI — AI Study Assistant for Engineering Students](./case-study-3-solvai-edtech.md)
-**Domain:** EdTech | SaaS | India Engineering Market
-**Type:** New Product (0→1) with Full Business Model
+### 3. [LinkedIn AI Job Match — PRD for Indian Fresher Job Discovery](https://github.com/Vivekbakade/ai-pm-case-study/blob/main/prd-linkedin-ai-job-match.md)
+**Domain:** Career Tech | AI Personalization | India Fresher Market  
+**Type:** Feature Redesign + Full PRD
 
-Designed SolvAI — a syllabus-aware RAG-based doubt-solving assistant for 8M+ Indian engineering students. Includes full PRD, RAG architecture decision rationale, freemium + B2B2C business model, competitive moat analysis vs ChatGPT/Unacademy, and 4-phase roadmap.
+Redesigned LinkedIn's job recommendation engine specifically for 8M+ Indian engineering freshers — who report <5% callback rates despite applying to 50+ jobs. Proposed "LinkedIn AI Job Match" — a skills-first AI layer that recognises certifications, GitHub projects, and India-specific signals (tier-2 college context, CGPA, stipend range) instead of penalising freshers for zero work experience.
+
+**Key PM skills demonstrated:** 5-Why root cause analysis, A/B test design, NLP-based skills matching architecture, north star metric definition, business case with ₹2,700 Cr revenue projection, bias mitigation in AI recommendations
 
 **Key PM skills demonstrated:** RAG architecture decision, LTV:CAC analysis, GTM strategy, competitive positioning, multilingual product design, AI limitation disclosure
 
